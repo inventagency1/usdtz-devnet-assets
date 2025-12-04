@@ -6,7 +6,7 @@
   "external_url": "https://gateway.pinata.cloud/ipfs/QmUEpAnFnEwiVVhbueCgij7CQqCvCufvigfXB297ZU2hi7",
   "attributes": [
     {"trait_type": "decimals", "value": 9},
-    {"trait_type": "supply_initial", "value": 10000}
+    {"trait_type": "supply_initial", "value": 20000}
   ],
   "properties": {
     "category": "token",
