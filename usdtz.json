@@ -2,16 +2,17 @@
   "name": "usdt.z",
   "symbol": "usdt.z",
   "description": "original token Tether",
-  "image": "ipfs://QmUEpAnFnEwiVVhbueCgij7CQqCvCufvigfXB297ZU2hi7",
+  "image": "https://gateway.pinata.cloud/ipfs/QmUEpAnFnEwiVVhbueCgij7CQqCvCufvigfXB297ZU2hi7",
   "external_url": "https://gateway.pinata.cloud/ipfs/QmUEpAnFnEwiVVhbueCgij7CQqCvCufvigfXB297ZU2hi7",
   "attributes": [
     {"trait_type": "decimals", "value": 9},
     {"trait_type": "supply_initial", "value": 20000}
   ],
   "properties": {
-    "category": "token",
+    "category": "image",
     "creators": [{"address": "5dGbRRzYJTZeSmMyEDa3HTjw5bzJokQ1yEiVWyfxwfHv", "share": 100}],
     "files": [
+      {"uri": "https://gateway.pinata.cloud/ipfs/QmUEpAnFnEwiVVhbueCgij7CQqCvCufvigfXB297ZU2hi7", "type": "image/jpeg"},
       {"uri": "ipfs://QmUEpAnFnEwiVVhbueCgij7CQqCvCufvigfXB297ZU2hi7", "type": "image/jpeg"}
     ]
   }
